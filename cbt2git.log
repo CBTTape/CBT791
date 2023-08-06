@@ -1,0 +1,5 @@
+2023-08-06 07:35:46.632168 - Initialized conversion of CBT791
+2023-08-06 07:35:46.657606 - Received CBT.V505.FILE791.PDS from FILE791.XMI 
+2023-08-06 07:35:46.659926 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE791.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:35:46.660937 - Found @FILE791.txt (text/plain) in CBT.V505.FILE791.PDS, moved to PDS/@FILE791
+2023-08-06 07:35:46.661935 - Found GETMAIN.txt (text/plain) in CBT.V505.FILE791.PDS, moved to PDS/GETMAIN
